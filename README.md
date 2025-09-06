@@ -53,9 +53,6 @@ Two major components of the project include:
 ME303-Floating-Bodies/  
 ├── report/              # Detailed lab report (PDF)  
 │   └── Floating_Body_Report.pdf  
-├── presentation/        # Lab presentation (if applicable)  
-│   └── Floating_Body_Presentation.pdf  
-├── data/                # Experimental data, graphs (optional)  
 └── README.md            # Project documentation (this file)  
 ```
 ## 🔹 Author  
